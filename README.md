@@ -14,4 +14,3 @@ I am comfortable working with:
 |            |              |            |           | Postman   |
 |            |              |            |           | Beekeeper |
 |            |              |            |           | Netlify   |
-|            |              |            |           |           |
