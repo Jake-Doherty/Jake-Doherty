@@ -4,7 +4,7 @@ A Software Developer that gets excited at the prospect of a new challenge and lo
 Every point of view is important, and can be learned from no matter if one is in leadership or working the ground floor. We can take influence from many things, but it is up to us to bring them together and paint our own picture.
 
 <details>
-<summary>I am comfortable working with:</summary>
+
 
 |  Languages | Environments | Frameworks | Libraries | Tools     |
 | ---------: | ------------ | ---------- | --------- | --------- |
@@ -16,4 +16,6 @@ Every point of view is important, and can be learned from no matter if one is in
 |            |              |            |           | Beekeeper |
 |            |              |            |           | Netlify   |
 
+  <summary>I am comfortable working with:</summary>
+  
 </details>
