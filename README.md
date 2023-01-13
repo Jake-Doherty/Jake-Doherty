@@ -15,6 +15,5 @@ Every point of view is important, and can be learned from no matter if one is in
 |            |              |            |           | Postman   |
 |            |              |            |           | Beekeeper |
 |            |              |            |           | Netlify   |
-|            |              |            |           |           |
 
 </details>
